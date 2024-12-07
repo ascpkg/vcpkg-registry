@@ -1,0 +1,4 @@
+libmpv provides CMake targets:
+
+  find_package(libmpv REQUIRED)
+  target_link_libraries(main PRIVATE libmpv)
